@@ -1,0 +1,34 @@
+AskForNumbersIntent today's numbers
+AskForNumbersIntent the winning numbers
+AskForNumbersIntent what were the numbers
+AskForNumbersIntent what the numbers were
+AskForNumbersIntent what are the numbers
+AskForNumbersIntent what the numbers are
+AskForNumbersIntent what were the {game} numbers
+AskForNumbersIntent what were the {game} winning numbers
+AskForNumbersIntent what were the winning {game} numbers
+AskForNumbersIntent what the {game} numbers were
+AskForNumbersIntent what the {game} winning numbers were
+AskForNumbersIntent what the winning {game} numbers were
+AskForNumbersIntent what are the {game} numbers
+AskForNumbersIntent what are the {game} winning numbers
+AskForNumbersIntent what are the winning {game} numbers
+AskForNumbersIntent what the {game} numbers are
+AskForNumbersIntent what the {game} winning numbers are
+AskForNumbersIntent what the winning {game} numbers are
+AskForNumbersIntent tell me the {game} numbers
+AskForNumbersIntent tell me the {game} winning numbers
+AskForNumbersIntent tell me the winning {game} numbers
+AskForNumbersIntent tell me what the {game} numbers were
+AskForNumbersIntent tell me what the {game} winning numbers were
+AskForNumbersIntent tell me what the winning {game} numbers were
+AskForNumbersIntent tell me what the {game} numbers are
+AskForNumbersIntent tell me whate the {game} winning numbers are
+AskForNumbersIntent tell me what the winning {game} numbers are
+AskForNumbersIntent tell me {game}
+AskForNumbersIntent what was {game}
+AskForNumbersIntent tell me the {game}
+AskForNumbersIntent what was the {game}
+AskForNumbersIntent the numbers
+AskForNumbersIntent {game} numbers
+AskForNumbersIntent {game}

@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "AskForNumbersIntent",
+      "slots": [
+        {
+          "name": "game",
+          "type": "LIST_OF_GAMES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
